@@ -11,12 +11,7 @@ const listData = [
 const App = () => {
   return (
     <div>
-      <List
-        data={[
-          { key: "001", value: "hello" },
-          { key: "002", value: "typescript" }
-        ]}
-      />
+      <List data={listData} />
     </div>
   );
 };

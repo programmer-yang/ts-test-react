@@ -1,0 +1,9 @@
+.list {
+  list-style: none;
+  display: flex;
+}
+.list li {
+  padding-right: 8px;
+  font-size: 20px;
+  font-weight: 500;
+}

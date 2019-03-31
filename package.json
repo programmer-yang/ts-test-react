@@ -23,8 +23,10 @@
   "dependencies": {
     "@types/react": "^16.8.7",
     "@types/react-dom": "^16.8.2",
+    "@types/react-intl": "^2.3.17",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-intl": "^2.8.0",
     "test-ts-component-list": "^0.0.6"
   }
 }

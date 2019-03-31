@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.layout {
+}
+
+.layout-header {
+  padding: 0 8px;
+  height: 60px;
+  background-color: #666666;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.layout-content {
+  margin: 8px;
+}
